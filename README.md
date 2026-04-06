@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Aruja 👋
 
-<!--
-**arujasrivastava/arujasrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring self taught Data Analyst passionate about data visualization and storytelling  
 
-Here are some ideas to get you started:
+## 🔍 What I Do
+- Build Excel dashboards using real-world datasets  
+- Clean and transform data using Power Query  
+- Extract insights and present them in a business-focused way
+- Create visually appealing dashboards that deliver clear and actionable insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Project
+🔗 Decoding Bestsellers: Goodreads Data Analysis  
+Analyzed 8,100+ books to uncover patterns in ratings, popularity, and hidden gems  
+
+## 🛠 Tools
+- Excel  
+- Power Query  
+- Data Visualization
+- Power BI
+- SQL
+
+## 🚀 Currently Learning
+- Power BI  
+- Advanced Data Analysis
+- Advanced SQL 
+
+## Fun Fact
+I’m a passionate reader and a Bookstagrammer who loves sharing book reviews!
+
+## 🌐 Find Me At
+
+- 💼 LinkedIn: https://www.linkedin.com/in/aruja-srivastava-5197481b9/
+- 📚 Bookstagram: https://instagram.com/aruja.reads
+- ✍️ Mail: arujawork@gmail.com 
