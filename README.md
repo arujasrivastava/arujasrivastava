@@ -9,9 +9,9 @@
 - Create visually appealing dashboards that deliver clear and actionable insights
 
 ## 📁 Featured Project
-🔗 Decoding Bestsellers: Goodreads Data Analysis  
+- 🔗 Decoding Bestsellers: Goodreads Data Analysis  
 Analyzed 8,100+ books to uncover patterns in ratings, popularity, and hidden gems
-🔗 BCG X Marketing Campaign Analysis
+- 🔗 BCG X Marketing Campaign Analysis
 Built an end-to-end marketing analytics dashboard to analyze channel performance, conversion rates, and customer behavior; generated actionable insights to optimize campaign strategy, improve acquisition efficiency, and drive higher revenue
 
 ## 🛠 Tools
