@@ -3,7 +3,7 @@
 📊 Aspiring self taught Data Analyst passionate about data visualization and storytelling  
 
 ## 🔍 What I Do
-- Build Excel dashboards using real-world datasets  
+- Build Excel & Power BI dashboards using real-world datasets  
 - Clean and transform data using Power Query  
 - Extract insights and present them in a business-focused way
 - Create visually appealing dashboards that deliver clear and actionable insights
